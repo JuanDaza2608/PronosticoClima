@@ -1,0 +1,21 @@
+.card-img-top{
+    width: 300px;
+    height: 200px;
+}
+
+.card-body{
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.card-title{
+    font-size: 25px;
+}
+
+.card-text-d first-letter {
+    text-transform: uppercase;
+}
+
+.descripcion{
+    font-weight: bold;
+}
